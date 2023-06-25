@@ -1,6 +1,6 @@
 # prospeedy
 Go-eCharger adapter aktualisiert keine Daten mehr
-
+Bitte um Hilfe
 
 {"version":"B","tme":"2506231923","rbc":"44","rbt":"965303","car":"4","amp":"12","amx":"6","err":"0","ast":"0","alw":"0","stp":"0","cbl":"32","pha":"56","tmp":"19","tma":[36.38,35.75,36,37.13,45.38,46.25],"amt":"32","dws":"97436","dwo":"0","adi":"1","uby":"0","eto":"8080","wst":"3","txi":"0","nrg":[227,228,223,1,0,0,0,0,0,0,0,0,0,0,0,0],"fwv":"042.0","sse":"029275","wss":"WLAN-380283","wke":"********************","wen":"1","cdi":"0","tof":"101","tds":"1","lbr":"53","aho":"3","afi":"20","azo":"0","ama":"32","al1":"6","al2":"8","al3":"10","al4":"12","al5":"16","cid":"9408492","cch":"15086341","cfi":"65280","lse":"1","ust":"1","wak":"192bb2d1ba","r1x":"2","dto":"0","nmo":"0","sch":"AAAAAAAAAAAAAAAA","sdp":"0","eca":"0","ecr":"0","ecd":"0","ec4":"0","ec5":"0","ec6":"0","ec7":"0","ec8":"0","ec9":"0","ec1":"0","rca":"0448F77A","rcr":"","rcd":"","rc4":"","rc5":"","rc6":"","rc7":"","rc8":"","rc9":"","rc1":"","rna":"","rnm":"","rne":"","rn4":"","rn5":"","rn6":"","rn7":"","rn8":"","rn9":"","rn1":"","loe":0,"lot":0,"lod":65535,"lts":0,"lom":0,"lop":0,"log":"","lon":0,"lof":0,"loa":0,"lch":764,"mce":0,"mcs":"test.mosquitto.org","mcp":1883,"mcu":"","mck":"","mcc":0,"pco":"","cmf":0,"ath":1200,"psp":11300,"cco":180,"map":123,"frm":1,"los":"{\"chg\":[[\"053644\",10,0,1,0,[1,2,3],6]]}"}
 
